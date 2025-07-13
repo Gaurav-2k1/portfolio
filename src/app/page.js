@@ -501,7 +501,7 @@ const ModernResumePortfolio = () => {
                     </div>
                     <div className="flex items-center gap-2">
                       <Briefcase className="w-4 h-4 text-green-500" />
-                      <span>2+ Years Experience</span>
+                      <span>2 Years Experience</span>
                     </div>
                   </div>
                 </div>
