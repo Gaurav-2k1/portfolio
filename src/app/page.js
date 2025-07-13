@@ -359,7 +359,7 @@ const ModernResumePortfolio = () => {
       company: "Tata Consultancy Services (TCS)",
       location: "Noida, India",
       position: "Backend Developer",
-      duration: "July 2023 – Present",
+      duration: "December 2023 – Present",
       achievements: [
         "Engineered and deployed comprehensive suite of secure login functionalities including QR-based authentication and multi-tenant EasyAuth/Auth Code flows",
         "Integrated and customized Keycloak for advanced IAM, developing custom SPIs for group-based password policies and multi-tenant authentication",
